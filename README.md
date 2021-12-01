@@ -9,6 +9,9 @@
 - GitHub远程仓库
 - git remote add origin https://github.com/SubtopH/SubtopH.github.io.git
 ### 更新日志
+#### 2021-12-01 16：28：00
+    1. 更改引入组件展示文件结构
+    2. 修改事件调用弹窗动画
 #### 2021-11-28 21：40：00
     1. 添加公共组件模块展示
     - 组件导航
