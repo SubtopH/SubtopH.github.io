@@ -95,7 +95,7 @@ emits: ["click"],
   },
 ```
 
-#### 子组件自定义 click 事件时
+#### vue3 批量注册组件时
 
 ```
 app.component(key, components[key].name);
