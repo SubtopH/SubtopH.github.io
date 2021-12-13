@@ -1,0 +1,6 @@
+@charset "utf-8";
+/*!
+ * @名称：base.css
+ * @功能：1、重设浏览器默认样式
+ *        2、设置通用原子类
+ */html[data-v-6d9b1aab]{background:#fff;color:#000}article[data-v-6d9b1aab],aside[data-v-6d9b1aab],blockquote[data-v-6d9b1aab],body[data-v-6d9b1aab],button[data-v-6d9b1aab],code[data-v-6d9b1aab],dd[data-v-6d9b1aab],details[data-v-6d9b1aab],dl[data-v-6d9b1aab],dt[data-v-6d9b1aab],fieldset[data-v-6d9b1aab],figcaption[data-v-6d9b1aab],figure[data-v-6d9b1aab],footer[data-v-6d9b1aab],form[data-v-6d9b1aab],h1[data-v-6d9b1aab],h2[data-v-6d9b1aab],h3[data-v-6d9b1aab],h4[data-v-6d9b1aab],h5[data-v-6d9b1aab],h6[data-v-6d9b1aab],header[data-v-6d9b1aab],hgroup[data-v-6d9b1aab],hr[data-v-6d9b1aab],input[data-v-6d9b1aab],legend[data-v-6d9b1aab],li[data-v-6d9b1aab],menu[data-v-6d9b1aab],nav[data-v-6d9b1aab],ol[data-v-6d9b1aab],p[data-v-6d9b1aab],pre[data-v-6d9b1aab],section[data-v-6d9b1aab],td[data-v-6d9b1aab],textarea[data-v-6d9b1aab],th[data-v-6d9b1aab],ul[data-v-6d9b1aab]{margin:0;padding:0}li[data-v-6d9b1aab],ul[data-v-6d9b1aab]{list-style:none}table[data-v-6d9b1aab]{border-collapse:collapse;border-spacing:0}a[data-v-6d9b1aab]{text-decoration:none;transition:.3s;color:#888;-moz-user-select:none;-webkit-user-select:none;-ms-user-select:none;user-select:none}.bbb[data-v-6d9b1aab]{position:absolute;top:300px;left:200px}
